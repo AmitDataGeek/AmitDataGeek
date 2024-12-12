@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Deep learning techniques and improving my skills in Python and SQL for data processing and analysis.**
 
-- 👯 I’m looking to collaborate on **Data visualization projects, predictive modeling, or any projects that involve turning raw data into business intelligence.**
+- I’m looking to collaborate on **Data visualization projects, predictive modeling, or any projects that involve turning raw data into business intelligence.**
 
-- 🤝 I’m looking for help with **Advanced machine learning algorithms and automating data pipelines.**
+- I’m looking for help with **Advanced machine learning algorithms and automating data pipelines.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AmitDataGeek/AmitDataGeek/edit/main/README.md](https://github.com/AmitDataGeek/AmitDataGeek/edit/main/README.md)
+- All of my projects are available at [https://github.com/AmitDataGeek/AmitDataGeek/edit/main/README.md](https://github.com/AmitDataGeek/AmitDataGeek/edit/main/README.md)
 
-- 📝 I regularly write articles on [Data analysis techniques, data visualization, and the latest trends in the field of data science.](Data analysis techniques, data visualization, and the latest trends in the field of data science.)
+- I regularly write articles on [Data analysis techniques, data visualization, and the latest trends in the field of data science.](Data analysis techniques, data visualization, and the latest trends in the field of data science.)
 
 - 💬 Ask me about **Data analysis best practices, SQL optimization, Power BI, Tableau, or any data-driven decision-making processes.**
 
