@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitdatageek" alt="amitdatageek" /></a> </p>
 
-- 🔭 I’m currently working on **Analyzing large datasets to uncover actionable business insights and building interactive dashboards using Power BI and Tableau.**
+- I’m currently working on **Analyzing large datasets to uncover actionable business insights and building interactive dashboards using Power BI and Tableau.**
 
 - 🌱 I’m currently learning **Deep learning techniques and improving my skills in Python and SQL for data processing and analysis.**
 
